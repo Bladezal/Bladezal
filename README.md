@@ -1,6 +1,7 @@
 # Hi, I'm Daniel (Danny) Cazal 👋
 
 **Full-Stack Developer · Node.js / React · Oracle PL/SQL & Forms modernization**
+
 Computer Engineer based in Paraguay (GMT-3).
 
 I build business software end to end, from legacy Oracle Forms ERPs to modern web applications with Node.js and React. Over 12+ years I've worked as a developer, team leader and Scrum Master, and today I lead IT for a group of companies, covering systems, databases, servers and networks.
@@ -14,10 +15,10 @@ I build business software end to end, from legacy Oracle Forms ERPs to modern we
 
 ## Tech stack
 
-**Languages & frameworks:** JavaScript · Node.js · Express · React · PL/SQL · Oracle Forms & Reports · Ruby on Rails · PHP (Laravel, CodeIgniter) · C#
-**Databases:** Oracle · PostgreSQL · MySQL · SQL Server
-**Infrastructure:** Linux · Nginx · Git · mail servers · MikroTik
-**Tools:** VS Code · Postman · DBeaver · Oracle SQL Developer · Toad · AI coding assistants
+- **Languages & frameworks:** JavaScript · Node.js · Express · React · PL/SQL · Oracle Forms & Reports · Ruby on Rails · PHP (Laravel, CodeIgniter) · C#
+- **Databases:** Oracle · PostgreSQL · MySQL · SQL Server
+- **Infrastructure:** Linux · Nginx · Git · mail servers · MikroTik
+- **Tools:** VS Code · Postman · DBeaver · Oracle SQL Developer · Toad · AI coding assistants
 
 <!--
 ## Featured projects
